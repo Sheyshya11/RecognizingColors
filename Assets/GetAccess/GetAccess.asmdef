@@ -1,0 +1,16 @@
+{
+    "name": "GetAccess",
+    "references": [
+        "GUID:65606f119401c5647b0ec825557d7fd5",
+        "GUID:e81b5f6b4ac388b4b92743edf1841399"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
